@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "aula09",
+            "request": "launch",
+            "mainClass": "aula09",
+            "projectName": "aula01_5a2c5f2c"
+        },
+        {
+            "type": "java",
+            "name": "exe",
+            "request": "launch",
+            "mainClass": "exe",
+            "projectName": "aula01_5a2c5f2c"
+        },
+        {
+            "type": "java",
+            "name": "aula07",
+            "request": "launch",
+            "mainClass": "aula07",
+            "projectName": "aula01_5a2c5f2c"
+        },
+        {
+            "type": "java",
+            "name": "aula06",
+            "request": "launch",
+            "mainClass": "aula06",
+            "projectName": "aula01_5a2c5f2c"
+        },
+        {
+            "type": "java",
+            "name": "aula04",
+            "request": "launch",
+            "mainClass": "aula04",
+            "projectName": "aula01_5a2c5f2c"
+        },
+        {
+            "type": "java",
             "name": "Aula3",
             "request": "launch",
             "mainClass": "Aula3",
